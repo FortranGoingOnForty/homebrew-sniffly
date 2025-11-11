@@ -1,6 +1,6 @@
 cask "sniffly" do
-  version "0.3.0"
-  sha256 "38a1ef473197dc8755990d828da41261fa8cc6edb94dd2032d63dd5d7a2ae87b"
+  version "0.4.1"
+  sha256 "0b6ae66b8e35c87d56fa589210deac8abcb105bd9dec9e8cd562fffaa90efad6"
 
   url "https://github.com/FortranGoingOnForty/sniffly/releases/download/v#{version}/Sniffly-#{version}-macOS.zip"
   name "Sniffly"
